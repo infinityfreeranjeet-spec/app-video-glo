@@ -1,0 +1,8 @@
+{
+  "name": "GlowBall Chat & Call",
+  "description": "A real-time chat and video calling app with a built-in pinball game and atmospheric filters.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
